@@ -70,5 +70,5 @@ while usuario != 4:
                   '7.2 a 7.6: Quer dizer que seu PH está ALCALINO\033[m')
             sleep(2)
         elif usuario == 4:
-            sleep(1)
+            sleep(2)
             print('FIM DO PROGRAMA, VOLTE SEMPRE QUE PRECISAR')
